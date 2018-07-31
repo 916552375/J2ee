@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JspServlet">
+    <output-path>$PROJECT_DIR$/out/artifacts/JspServlet</output-path>
+    <root id="archive" name="JspServlet.war" />
+  </artifact>
+</component>
