@@ -18,7 +18,7 @@ import java.io.IOException;
 
 import java.io.PrintWriter;
 
-@WebServlet("/classes/bird")
+@WebServlet("/Hello")
 public class Hello extends HttpServlet {
 
     private String message;
